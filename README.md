@@ -4,7 +4,7 @@ IP PORT SCANNER
 A lightweight tool to scan IP ranges for open ports quickly.
 
 
-✨[Screenshot](Screenshot.png) 
+✨[Screenshot]([https://i.ibb.co/sphhdgyT/Screenshot.png](https://i.ibb.co/rKggRQ4B/Screenshot.png))
 --------------
 
 📦 Installation
